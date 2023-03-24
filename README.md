@@ -4,4 +4,4 @@
 This is an api file consolidation that uses methods in file md files
 
 
-### baiduapi-submit 是
+### baiduapi-submit 是PHP对接百度API提交普通收录/SEO
