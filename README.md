@@ -28,7 +28,7 @@
 | not\_same\_site | 否 | array | 由于不是本站url而未处理的url列表 |
 | not\_valid | 否 | array | 不合法的url列表 |
 
-博客 [www.czmz.top](https://www.czmz.top)
+博客 [www.0735.pro](https://www.0735.pro)
 ###### baiduapi1文件
 > 适单页面，单域名
 ###### baiduapi2文件
