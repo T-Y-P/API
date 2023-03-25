@@ -9,6 +9,6 @@
 This is an api file consolidation that uses methods in file md files
 
 
-### [baiduapi-submit 是PHP对接百度API提交普通收录/SEO](./baiduapi-submit.md)
+### [baiduapi-submit PHP对接百度API提交普通收录/SEO](./baiduapi-submit.md)
 
 ### [baidusite 查询当前域名百度收录数量](./baidusite.md)
