@@ -1,4 +1,9 @@
 <?php
+/*
+ * @Name: Handsome
+ * @Date: 2023-03-24
+ * @ContactMail: mail@czgov.cn
+ */
 header("Access-Control-Allow-Origin:*");
 header('Content-Type:application/json; charset=utf-8');
 $site = (isset($_GET['site']))?$_GET['site']:$_POST['site'];
