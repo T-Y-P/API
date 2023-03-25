@@ -41,7 +41,6 @@ $opts = array(
 );
 
 $context = stream_context_create($opts);
-
 $response1 = file_get_contents($url1, false, $context);
 $response2 = file_get_contents($url2, false, $context);
 $response3 = file_get_contents($url3, false, $context);
