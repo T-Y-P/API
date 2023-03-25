@@ -25,6 +25,7 @@ function baiduSL ($site) {
      unset($count);
      return $baiduSL;
 }
+
 function BD_curl($url){
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, $url);

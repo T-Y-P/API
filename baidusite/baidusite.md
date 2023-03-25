@@ -1,10 +1,4 @@
-<!--
- * @Name: Handsome
- * @Date: 2023-03-24
- * @ContactMail: mail@czgov.cn
--->
 ## 查询当前域名百度收录数量api
-
 ### 使用方法
 
 ```
