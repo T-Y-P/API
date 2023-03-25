@@ -1,10 +1,10 @@
 
-# API 
+# 声明  
 这是一个api文件整合，使用方法和源代码在子文件中
 
 This is an api file integration that uses methods and source code in subfiles
 
-## 当前收录
+## 当前api收录
 ## Current collection
 
 
@@ -17,4 +17,6 @@ This is an api file integration that uses methods and source code in subfiles
  - [哔哩哔哩查询个人信息](./bilibilisite)
  
  - [车牌归宿地查询](./cheapi)
+
+  - [bing每日壁纸](./bing)
 
