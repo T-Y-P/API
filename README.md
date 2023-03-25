@@ -1,14 +1,20 @@
-<!--
- * @Name: Handsome
- * @Date: 2023-03-24
- * @ContactMail: mail@czgov.cn
--->
+
 # API 
-这是一个api文件整合，使用方法在文件的md文件
+这是一个api文件整合，使用方法和源代码在子文件中
 
-This is an api file consolidation that uses methods in file md files
+This is an api file integration that uses methods and source code in subfiles
+
+## 当前收录
+## Current collection
 
 
-### [baiduapi-submit PHP对接百度API提交普通收录/SEO](./baiduapi-submit.md)
+ - [二维码生成API接口源码](./QRapi)
 
-### [baidusite 查询当前域名百度收录数量](./baidusite.md)
+ - [PHP对接百度API提交普通收录/SEO](./baiduapi-submit)
+
+ - [查询当前域名百度收录数量](./baidusite)
+
+ - [哔哩哔哩查询个人信息](./bilibilisite)
+ 
+ - [车牌归宿地查询](./cheapi)
+
