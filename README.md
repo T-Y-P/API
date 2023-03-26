@@ -1,7 +1,7 @@
 <!--
  * @Name: Handsome
- * @Date: 2023-03-24
- * @ContactMail: mail@czgov.cn
+ * @Date: 2019-12-24
+ * @ContactMail: ax2019@aliyun.com
 -->
 
 # 声明  
@@ -27,3 +27,4 @@ This is an api file integration that uses methods and source code in subfiles
 
  - [检测文章是否被收录](./baidusl)
 
+ - [获取QQ头像加密链接](./timeqq)
