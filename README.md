@@ -30,3 +30,5 @@ This is an api file integration that uses methods and source code in subfiles
  - [获取QQ头像加密链接](./timeqq)
 
  - [微博热搜榜](./weibo_hot)
+
+  - [QQ强制转跳加好友](./qq)
