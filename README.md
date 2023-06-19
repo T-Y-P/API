@@ -34,3 +34,5 @@ This is an api file integration that uses methods and source code in subfiles
  - [QQ强制转跳加好友](./qq)
 
  - [小爱同学聊天API接口](./xiaoai)
+
+ - [base64加解密接口](./base64)
