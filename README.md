@@ -31,4 +31,6 @@ This is an api file integration that uses methods and source code in subfiles
 
  - [微博热搜榜](./weibo_hot)
 
-  - [QQ强制转跳加好友](./qq)
+ - [QQ强制转跳加好友](./qq)
+
+ - [小爱同学聊天API接口](./xiaoai)
